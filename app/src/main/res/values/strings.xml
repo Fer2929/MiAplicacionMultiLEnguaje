@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MiAplicacionMultiLEnguaje</string>
+    <string name="action_settings">Settings</string>
+    <string name="descripcion">hola</string>
+    <string name="share">share</string>
+    <string name="like">string/like</string>
+</resources>
